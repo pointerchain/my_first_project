@@ -4,6 +4,6 @@
 
 ### Example
 
-```bash
+```
 How old are you?: 21
 You are 21 years old!
